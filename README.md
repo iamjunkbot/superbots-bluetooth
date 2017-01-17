@@ -1,4 +1,4 @@
-# SuperbotsBTControl
+# Superbots Bluetooth Controlled
 
 ![image](http://www.junkbot.co/wp-content/themes/junkbot/images/logo.png)
 
